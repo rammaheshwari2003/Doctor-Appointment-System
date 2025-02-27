@@ -1,0 +1,71 @@
+#formLogin{
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 100px;
+
+    input{
+        width: 350px;
+    }
+    span{
+        color: blue;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    h6{
+        cursor: pointer;
+    }
+}
+
+
+#formBottom{
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+
+#RegDoctor{
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+
+    input{
+        width: 350px;
+    }
+    h6{
+        cursor: pointer;
+    }
+    span{
+        color: blue;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+}
+
+
+
+#homeDoctors{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+
+#LogDoctor{
+    margin-top: 100px;
+    width: 500px;
+    border: 2px solid black;
+
+    input{
+        width: 350px;
+    }
+    h6{
+        cursor: pointer;
+    }
+    span{
+        color: blue;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+}

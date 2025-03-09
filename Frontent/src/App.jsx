@@ -8,7 +8,7 @@ import DoctorRegistration from "./Component/DoctorRegistration";
 import DoctorDashboard from "./Component/DoctorDashboard";
 
 const App=()=>{
-  return(
+  return( 
     <>
     <BrowserRouter>
     <Routes>
